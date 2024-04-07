@@ -6,7 +6,6 @@ This code is free & open-source, distributed under the terms of GNU General Publ
                shekaari@email.kntu.ac.ir
 
  Social Links: https://rt.academia.edu/AshkanShekaari
- 
                https://orcid.org/0000-0002-7434-467X
   
  >>> PLEASE, cite the main paper in case of using this code, as follows:
